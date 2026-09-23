@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1659f65ffc38921072078b35",
+  "owner": "pwk8xwvp",
+  "repo": "page-a3c7a2054e3ab45f64df0f87",
+  "title": "锐星云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a3c7a2054e3ab45f64df0f87",
+      "a": "锐星云",
+      "b": "稳定全球clash加速器",
+      "entity": "锐星云",
+      "brand": "锐星云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "eb201c46665d5752cc9836b3ea9b854a7f6e7a7be80abc55129e0a6ac4788e30",
+      "content": {
+        "primary_entity": "锐星云",
+        "keyword1": "锐星云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "锐星云订阅可配合 Clash 系列客户端使用，按设备系统选择对应版本后导入订阅链接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "对比三档套餐的流量与设备数，按自己的使用场景选择合适的订阅。",
+          "AI_CLOSING_TITLE": "选好套餐再开始",
+          "AI_DESCRIPTION": "，锐星云提供基础版、旗舰版与团队版三档套餐，分别对应每月 100GB、300GB、1000GB 流量与 3 台、5 台、20 台设备同时在线。旗舰版支持 IPLC 专线游戏加速与全节点流媒体解锁，团队版提供 VIP 高带宽节点与专属客户经理。配合 Clash 客户端导入订阅即可在常用系统上使用。",
+          "AI_FEATURES_INTRO": "按流量区间、设备数量与订阅周期对比三档套餐，快速定位合适方案。",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，适合单人日常浏览，年付 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB，5 台设备共享，年付 ¥350 含专线加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB，20 台设备同时在线，年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "轻量基础版",
+          "AI_FEATURE_TITLE_2": "旗舰均衡版",
+          "AI_FEATURE_TITLE_3": "团队共享版",
+          "AI_GUIDE_INTRO": "从套餐匹配到客户端订阅导入，按三步完成配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "锐星云提供多档 Clash 订阅方案，覆盖日常浏览、流媒体与团队共享场景，流量与设备数量按套餐区分，可依使用规模选择并按客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备规模",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量可选",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线游戏加速",
+          "AI_PLANS_INTRO": "三档套餐按流量与设备数递增，年付价格为对应月付的十个月金额。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量需求与同时在线设备数量，从基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TEXT_2": "确认所用系统是否在客户端支持范围内，并核对套餐的设备上限与订阅周期。",
+          "AI_STEP_TEXT_3": "依照所选 Clash 客户端文档导入订阅链接，完成节点配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "锐星云套餐一览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "锐星云基础版适合哪些人使用？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机、平板日常浏览和轻度视频观看，若常用设备较多或流量需求大，可考虑旗舰版。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_2": "IPLC 专线针对游戏和实时通信场景做了延迟优化，旗舰版每月 300GB 流量、支持 5 台设备，适合对线路稳定性和响应速度有要求的用户。",
+          "AI_FAQ_QUESTION_3": "团队版能支持多少台设备？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并提供 VIP 高带宽节点和企业定制路由，适合小型团队或家庭多终端环境。",
+          "AI_FAQ_QUESTION_4": "套餐按年付会更划算吗？",
+          "AI_FAQ_ANSWER_4": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付可节省两个月费用，长期使用建议选择年付。",
+          "AI_FAQ_QUESTION_5": "订阅导入后无法使用怎么办？",
+          "AI_FAQ_ANSWER_5": "先确认客户端版本与系统要求是否匹配，再检查订阅链接是否完整复制，如仍无法使用，可通过工单联系支持人员排查线路与配置问题。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tttye.cn",
+    "host": "tttye.cn"
+  },
+  "file_hashes": {
+    "index.html": "b2ffe0ad97978ef618dc317b022ca93a09831e0b3170d5e9c0f238ca1cea9d87",
+    "sitemap.xml": "f98e5a3d72f8537bf525128c9dc3197a2e9f7e53eb7492d2dfe14e4ba9a56385",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "76b09e78536f5b9de758d690954afe9ca81d6868943916e1c7056bb582044ce6",
+    "robots.txt": "b47ceec25fc774f2d6931e3500a09686593755d442e08f85d54f0515072008df",
+    "9a043b3a4d5282ca25687a95dface4cc.txt": "55b7bc4bd8f688f262592ac531854bbf7360111f59e11cd8e065fe1cbe6e68db"
+  },
+  "revision": "8585cff773419f98cf6a9fdffd7b815c0347e9992914d941e7325ab87697bd30"
+}
